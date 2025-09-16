@@ -32,6 +32,3 @@ git clone https://github.com/Mukul230-glitxh/WD_3_TICTACTOE_-ARITHMATRIX
 cd tic-tac-toe
 open index.html in your browser
 
-git clone https://github.com/your-username/tic-tac-toe.git
-cd tic-tac-toe
-open index.html in your browser
